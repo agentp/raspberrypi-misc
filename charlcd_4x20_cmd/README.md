@@ -2,10 +2,10 @@ This is a simple command line script. It accept one argument per LCD display lin
 
 URLs
 ----
-Adafruit Tutorial: http://learn.adafruit.com/drive-a-16x2-lcd-directly-with-a-raspberry-pi/overview
-GPIO Pins: http://elinux.org/RPi_Low-level_peripherals
-Original Sourcecode: https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code
-German Blog Post: http://anwendungsentwickler.ws/blog/kategorien/raspberry-pi/4x20-lcd-screen-mit-dem-raspberry-pi.html
+- Adafruit Tutorial: http://learn.adafruit.com/drive-a-16x2-lcd-directly-with-a-raspberry-pi/overview
+- GPIO Pins: http://elinux.org/RPi_Low-level_peripherals
+- Original Sourcecode: https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code
+- German Blog Post: http://anwendungsentwickler.ws/blog/kategorien/raspberry-pi/4x20-lcd-screen-mit-dem-raspberry-pi.html
 
 PIN Layout
 ----------
